@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/45914161/216682504-9d47772e-810b-4341-
 ## Technology Stack 
 
 1. Python 
-2. Streamlit
+2. Plotly Dash
 3. Pandas
 4. Plotly
 
@@ -32,8 +32,8 @@ $ source env/Source/activate
 ```
 $ pip install -r requirements.txt
 ```
-- Run: Streamlit run index.py
+- Run index.py file
 
 ## Contact
 
-For any feedback or queries, please reach out to me at [suwaidaslam@gmail.com](suwaidaslam@gmail.com) or My Linkedin @suwaidaslam.
+For any feedback or queries, you can reach out to me at [suwaidaslam@gmail.com](suwaidaslam@gmail.com) or My Linkedin @suwaidaslam.
